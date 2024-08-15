@@ -1,0 +1,394 @@
+body {
+  display: flex;
+  justify-content: center;
+  background-color: rgba(0, 0, 0, 0.769);
+}
+form {
+  color: darkblue;
+  margin: 0;
+  width: 100%;
+}
+.top {
+  background-color: rgb(186, 228, 214);
+  padding-left: 50px;
+  height: 400px;
+}
+header {
+  display: flex;
+  justify-content: space-between;
+}
+h5 {
+  margin: 0%;
+  font-weight: bold;
+  padding-top: 20px;
+}
+.anchor {
+  display: flex;
+  padding-top: 20px;
+  gap: 30px;
+}
+.a {
+  text-decoration: none;
+  font-size: xx-small;
+  font-weight: bold;
+}
+.lefttop {
+  display: flex;
+  gap: 10px;
+  margin-left: 150px;
+}
+.search {
+  padding-top: 20px;
+}
+bag {
+  background-color: darkblue;
+  height: 50px;
+  width: 50px;
+  text-align: center;
+}
+.topmain {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+}
+p {
+  font-size: small;
+  font-weight: bold;
+  color: rgba(0, 0, 139, 0.514);
+}
+.button {
+  padding: 9px 15px;
+  background-color: darkblue;
+  border: 0;
+  color: white;
+  font-weight: bold;
+}
+.mainimg {
+  width: 250px;
+}
+.color {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  background-color: darkblue;
+  position: absolute;
+  right: -5px;
+  bottom: 0;
+}
+.image {
+  position: relative;
+}
+.icon1 {
+  position: absolute;
+  top: -10px;
+  left: -50px;
+}
+.svg {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.second {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: white;
+  height: 400px;
+}
+.img {
+  display: flex;
+  gap: 50px;
+}
+.each {
+  position: relative;
+}
+.secondvg {
+  position: absolute;
+  left: -40px;
+  top: -20px;
+}
+/* two section */
+.two {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkblue;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  left: 0;
+  top: 120px;
+}
+.twoo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: darkblue;
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 0;
+  top: 120px;
+}
+.style {
+  background-color: rgba(186, 228, 214, 0.568);
+  width: 100px;
+  height: 100px;
+  position: absolute;
+  right: -25px;
+  top: 200px;
+}
+/* three section */
+.three {
+  width: 200px;
+}
+h4 {
+  margin: 0%;
+  font-weight: bold;
+}
+.third {
+  display: flex;
+  justify-content: space-around;
+  background-color: rgb(186, 228, 214);
+  padding-left: 50px;
+  height: 400px;
+  padding-top: 50px;
+}
+.div {
+  position: relative;
+}
+.but {
+  position: absolute;
+  bottom: 100px;
+  left: 25%;
+  padding: 10px;
+  background-color: white;
+  border: 0;
+}
+.design {
+  display: flex;
+  gap: 10px;
+}
+h2 {
+  margin: 0;
+  font-style: italic;
+}
+.samedesign {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0;
+  align-items: center;
+  width: 90px;
+  height: 100px;
+  border: 1px solid darkblue;
+  color: darkblue;
+}
+.differdesign {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  gap: 0;
+  align-items: center;
+  width: 90px;
+  height: 100px;
+  background-color: darkblue;
+  color: white;
+}
+.differ {
+  color: white;
+}
+/* fourth section */
+.fourth {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  height: 800px;
+}
+.upper {
+  text-align: center;
+}
+.line {
+  font-weight: bold;
+  font-size: large;
+  text-decoration: none;
+  margin-left: 30px;
+}
+.line:hover {
+  text-decoration-line: underline;
+}
+.pics {
+  display: flex;
+  gap: 50px;
+  margin-top: 10px;
+}
+/* fifth section */
+.fifth {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  gap: 100px;
+  height: 350px;
+  background-color: rgb(186, 228, 214);
+}
+p {
+  font-size: x-small;
+}
+.lastform {
+  display: flex;
+  gap: 10px;
+}
+h5 {
+  font-size: larger;
+  font-style: oblique;
+  margin: 0;
+}
+h6 {
+  margin: 0;
+  color: rgba(250, 235, 215, 0.664);
+}
+.last {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: darkblue;
+  color: white;
+  width: 70px;
+  height: 70px;
+}
+.lastimg {
+  width: 230px;
+}
+.fif {
+  position: relative;
+}
+.fifthvg {
+  position: absolute;
+  right: -50px;
+  top: -10px;
+}
+.fifthvgg {
+  position: absolute;
+  left: -40px;
+  bottom: -10px;
+}
+.butt {
+  padding: 15px 30px;
+  background-color: darkblue;
+  border: 0;
+  color: white;
+  font-size: small;
+  margin-top: 30px;
+}
+/* last section */
+.lastlast {
+  display: flex;
+  flex-direction: column;
+  background-color: darkblue;
+  gap: 0px;
+}
+.lastpage {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 70px;
+  background-color: darkblue;
+  height: 230px;
+  color: white;
+}
+
+.path {
+  color: rgba(255, 255, 255, 0.428);
+}
+.topic {
+  display: flex;
+  flex-direction: column;
+}
+.lasta {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 0.473);
+  font-size: smaller;
+}
+.span {
+  display: flex;
+  width: 100%;
+  border: 0.5px solid rgba(255, 255, 255, 0.28);
+}
+/* responsiveness */
+@media screen and (max-width: 500px) {
+  form {
+    display: flex;
+    flex-direction: column;
+    width: auto;
+  }
+  .top {
+    height: 600px;
+  }
+  .header {
+    display: flex;
+    gap: 300px;
+  }
+  .lefttop {
+    display: none;
+    margin-left: 0;
+  }
+  .color {
+    position: fixed;
+    top: 200px;
+  }
+  .anchor {
+    display: none;
+    border: 1px solid darkblue;
+    border-style: dashed;
+    flex-direction: column;
+    gap: 0px;
+  }
+  .topmain {
+    display: block;
+  }
+  .three {
+    width: 130px;
+  }
+  .img {
+    display: flex;
+    gap: 30px;
+  }
+  .third {
+    display: block;
+    height: 600px;
+  }
+  .fifth {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    align-items: center;
+    height: 600px;
+  }
+  .style {
+    width: 0;
+  }
+  .lastpage {
+    display: flex;
+    gap: 20px;
+  }
+  .fifthvg {
+    position: absolute;
+    right: 0;
+  }
+}
+/* @media screen and (max-width: 800px) {
+  .pics {
+    display: flex;
+    gap: 0;
+  }
+  .img {
+    display: flex;
+    gap: 0;
+  }
+} */
